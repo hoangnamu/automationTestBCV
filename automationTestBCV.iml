@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/testlibrary/apache-commons.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/testlibrary/asm-all-3.3.1.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/testlibrary/byte-buddy-1.8.15.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/testlibrary/cglib-2.2.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/testlibrary/client-combined-3.141.59.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/testlibrary/common-lang3.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/testlibrary/commons-exec-1.3.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/testlibrary/guava-25.0-jre.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/testlibrary/java-client-7.0.0.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/testlibrary/okhttp-3.11.0.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/testlibrary/okio-1.14.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Downloads/testlibrary/client-combined-3.141.59-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/testlibrary/common-lang3.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/testlibrary/commons-io-2.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/testlibrary/testng-6.9.13.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
